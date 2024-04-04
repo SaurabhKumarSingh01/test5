@@ -80,7 +80,7 @@
 
 
 # 📊 GitHub Stats:
-<img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo1.gif?raw=true" width="500" height="590" />
+<img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo1.gif?raw=true" width="400" height="590" />
 
 ![](https://github-readme-stats.vercel.app/api?username=SaurabhKrSing&theme=dark&hide_border=true&include_all_commits=true&count_private=true&card_width=500)</br></br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaurabhKrSing&theme=dark&hide_border=true&card_width=500)</br></br>
