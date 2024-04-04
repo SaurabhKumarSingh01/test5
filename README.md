@@ -80,6 +80,8 @@
 
 
 # 📊 GitHub Stats:
+<img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo1.gif?raw=true" width="500" height="590" />
+
 ![](https://github-readme-stats.vercel.app/api?username=SaurabhKrSing&theme=dark&hide_border=true&include_all_commits=true&count_private=true&card_width=500)</br></br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=SaurabhKrSing&theme=dark&hide_border=true&card_width=500)</br></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhKrSing&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&card_width=500)
@@ -100,7 +102,7 @@
 
 
 # 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px; width=100%;"/>
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 
 
