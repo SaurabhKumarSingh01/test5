@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
 - 🔭 I’m currently working on [Protfolio](www.saurabhkumarsingh.com)
 
 - 🌱 I’m currently learning **React**
@@ -84,26 +86,36 @@
 
 
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SaurabhKrSing&theme=radical&no-frame=true&no-bg=false&margin-w=4&card_width=500)
 
 
 
 
-
-### 🔝 Top Contributed Repo
+# 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SaurabhKrSing&limit=5&theme=nord&combine_all_yearly_contributions=true)
 
 
 
 
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+# 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px; width=100%;"/>
 
 
 
+<img src="https://raw.githubusercontent.com/SaurabhKrSing/SaurabhKrSing/output/snake.svg" alt="Snake animation" />
 
 
 ---
+<div align="right">
+<a href="https://www.buymeacoffee.com/SaurabhKrSing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</div>
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+
 [![](https://visitcount.itsvg.in/api?id=SaurabhKrSing&icon=0&color=1)](https://visitcount.itsvg.in)
+
+
+
 
