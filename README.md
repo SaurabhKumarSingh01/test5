@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Saurabh Kumar</h1>
 
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+  <img align="right" alt="GIF" src="https://github.com/SaurabhKumarSingh01/test5/blob/main/photo.gif?raw=true" width="450" height="240" />
 
 - 🔭 I’m currently working on [Protfolio](www.saurabhkumarsingh.com)
 
@@ -41,6 +41,7 @@
 # ✍️ Random Dev Quote:
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 
 
@@ -107,14 +108,10 @@
 
 
 ---
-<div align="right">
-<a href="https://www.buymeacoffee.com/SaurabhKrSing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</div>
-
-  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
-
 
 [![](https://visitcount.itsvg.in/api?id=SaurabhKrSing&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<a href="https://www.buymeacoffee.com/SaurabhKrSing" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" align="right" ></a>
 
 
 
